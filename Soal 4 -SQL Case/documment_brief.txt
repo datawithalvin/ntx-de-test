@@ -1,0 +1,14 @@
+This is a document brief for "Soal 4 - SQL Case"
+This notepad contain explanation of each script/file on this folder
+
+1. data-to-insights.ecommerce.all_sessions-sql.csv
+Clean csv file from preprocessing Test Case 1
+
+2. input_data_toSQL.py
+I use this script to input all the value from column needed to "database_ecommerce.sql"
+
+3. query.sql
+Contains SQL query for Test Case 1 until Test Case 3
+
+4. database_ecommerce.sql
+This is the database
